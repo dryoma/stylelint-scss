@@ -12,6 +12,7 @@
     "url": "https://github.com/kristerkari/stylelint-scss/issues"
   },
   "dependencies": {
+    "postcss-value-parser": "^3.3.0",
     "stylelint": "^4.5.0"
   },
   "devDependencies": {
